@@ -87,5 +87,5 @@ It is recommended to develop on the latest snapshot branch and to submit pull re
 
 ## License
 
-This repository is licensed under a [special license](https://github.com/starwolves/space/blob/master/LICENSE).
+This repository is licensed under a [special license](https://hrt.cafe/).
 
