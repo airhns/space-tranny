@@ -68,7 +68,7 @@ cargo run --release
 ```
 
 ### Client
-You can obtain the latest stable release of the client on [Discord](https://discord.gg/yYpMun9CTT).
+You can obtain the latest stable release of the client on [Discord](https://github.com/airhns/space-tranny/).
 Ensure your server has the right git branch with the same version as the obtained client and not the master branch!
 
 The client is built on top of the latest stable Godot 3.4.x release. The client will be upgraded and moved to Godot 4 for better 3D rendering in favour of the Vulkan API.
